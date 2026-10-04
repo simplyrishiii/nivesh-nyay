@@ -1,0 +1,1 @@
+const niveshNyayScenarios={broker:{title:"Unexpected brokerage/charge",text:"I noticed a charge on my broker account that I did not understand."},fraud:{title:"Suspicious OTP",text:"Someone called claiming to be from my financial provider and asked for an OTP."},mutualFund:{title:"Mutual fund issue",text:"My mutual fund transaction was not reflected as expected."}};
